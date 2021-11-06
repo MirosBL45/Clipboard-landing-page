@@ -1,0 +1,1 @@
+Challenge from FrontEnd Mentor, named: "Clipboard landing page"
